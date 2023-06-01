@@ -1,0 +1,12 @@
+.style3-container h2 {
+    color: red;
+}
+
+.style3-container ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.style3-container #heading {
+    font-style: italic;
+}
